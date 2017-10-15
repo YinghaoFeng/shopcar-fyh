@@ -6,6 +6,7 @@ import java.io.Serializable;
 public class Member implements Serializable {
 	private String mid ;
 	
+	
 	private String name ;
 	private String password ;
 	public String getMid() {
